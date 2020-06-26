@@ -1,2 +1,2 @@
-# curso_r
- Tudo sobre o curso Bioestatística em R
+# Bioestatística em R
+ Repositório com os dados do curso Bioestatística em R
