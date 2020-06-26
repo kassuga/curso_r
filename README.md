@@ -1,5 +1,8 @@
 # Bioestatística em R
- Repositório com os dados do curso Bioestatística em R
+
+Bem-vindo ao curso Estatística Básica com R!!!
+Aqui você vai encontrara informações sobre nosso curso.
+
  
 ## Objetivos
  
