@@ -1,12 +1,12 @@
 # Bioestatística em R
  Repositório com os dados do curso Bioestatística em R
  
-# h1 Objetivos
+## Objetivos
  
-# h1 Público-alvo
+## Público-alvo
  Graduandos e pós-graduandos das áreas de Ciências Ambientais
 
-# h1 Pré-requisitos
+## Pré-requisitos
 
 Vontade de aprender e cabeça aberta para uma nova forma de trabalhar com dados.
  
