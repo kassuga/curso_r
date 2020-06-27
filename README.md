@@ -18,7 +18,7 @@ Vontade de aprender e cabeça aberta para uma nova forma de trabalhar com dados.
 Aqui você vai encontrar os programas que serão utilizados no nosso curso e os links para baixar
 
 ### Software R
-```
+
 [The R Project] (https://www.r-project.org/) - Página da R Foundation
 
 Este link leva à pagina da R Foundation. Nela você vai encontrar diversas informações sobre o software R e os links para download.
@@ -31,14 +31,13 @@ Na página **The Comprehensive R Archive Network**  escolha o link para sua plat
 
 
 
-```
 
 ### Visual Studio Code
-```
+
 [Visual Studio Code] (https://code.visualstudio.com/) - Página do VSCode
 
 
-```
+
 
 
  
