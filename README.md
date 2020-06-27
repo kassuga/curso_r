@@ -23,7 +23,7 @@ Aqui você vai encontrar os programas que serão utilizados no nosso curso e os 
 
 Este link leva à pagina da R Foundation. Nela você vai encontrar diversas informações sobre o software R e os links para download.
 
-Para baixar, no menu lateral, clique em ** Download** > **CRAN**
+Para baixar, no menu lateral, clique em **Download** > **CRAN**
 
 Escolha o **CRAN mirror**. Escolha um próximo a você.
 
