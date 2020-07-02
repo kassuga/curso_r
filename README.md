@@ -29,12 +29,26 @@ Escolha o **CRAN mirror**. Escolha um próximo a você.
 
 Na página **The Comprehensive R Archive Network**  escolha o link para sua plataforma (Linux, Windows ou Mac)
 
+Escolha o link para **base** - Vai baixar o pacote base para R
+
 
 
 
 ### Visual Studio Code
 
 [Visual Studio Code] (https://code.visualstudio.com/) - Página do VSCode
+
+#### Organizando o VSCode para utilização durante as aulas
+
+* Configurando o VSCode
+    * 
+* Instalando a Extensão para o pacote R
+    * Aqui vamos instalar a extensão que vai permitir rodar o terminal do R no VSCode.
+    * Abra o VSCode, clique no botão na coluna a direita "Extensions"
+
+
+
+
 
 
 
