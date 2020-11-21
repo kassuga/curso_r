@@ -1,6 +1,6 @@
-# Bioestatística em R
+# Introdução a Ciência de Dados Usando R
 
-Bem-vindo ao curso Estatística Básica com R!!!
+Bem-vindo ao curso Introdução a Ciência de Dados Usando R!!!
 Aqui você vai encontrara informações sobre nosso curso.
 
  
@@ -16,6 +16,7 @@ Vontade de aprender e cabeça aberta para uma nova forma de trabalhar com dados.
 ## Instalação
 
 Aqui você vai encontrar os programas que serão utilizados no nosso curso e os links para baixar
+**Importante** - Para instalar qualquer uma das ferramentas sugeridas para uso da linguagem R, é necessário instalar o pacote base.
 
 ### Software R
 
@@ -32,6 +33,8 @@ Na página **The Comprehensive R Archive Network**  escolha o link para sua plat
 Escolha o link para **base** - Vai baixar o pacote base para R
 
 
+### RStudio
+
 
 
 ### Visual Studio Code
@@ -45,6 +48,9 @@ Escolha o link para **base** - Vai baixar o pacote base para R
 * Instalando a Extensão para o pacote R
     * Aqui vamos instalar a extensão que vai permitir rodar o terminal do R no VSCode.
     * Abra o VSCode, clique no botão na coluna a direita "Extensions"
+
+
+### Jupyter Notebook
 
 
 
