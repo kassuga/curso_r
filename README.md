@@ -15,7 +15,7 @@ Vontade de aprender e cabeça aberta para uma nova forma de trabalhar com dados.
  
 ## Instalação
 
-Aqui você vai encontrar os programas que serão utilizados no nosso curso e os links para baixar
+Aqui você vai encontrar os programas que serão utilizados no nosso curso e os links para baixar  
 **Importante** - Para instalar qualquer uma das ferramentas sugeridas para uso da linguagem R, é necessário instalar o pacote base.
 
 ### Software R
